@@ -121,6 +121,17 @@
   font-size: 3em;
   font-weight: bold;
   padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.textTitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 1em;
+  font-size: 1.5em;
 }
 
 .input {
